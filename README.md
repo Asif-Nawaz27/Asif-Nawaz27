@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a senior software engineer with over six years of experience building distributed system on .NET. Currently focuses on AI-assisted reliability engineering.
+Senior Software Engineer based in Glasgow, United Kingdom, with over six years of experience designing and developing scalable backend systems using C# and ASP.NET Core. Brings expertise in machine learning and data-driven architecture, combining modern AI capabilities with sound engineering principles to build practical, production-ready .NET solutions. Passionate about creating scalable, maintainable systems that solve real-world business challenges.
 
 
 ## 🌐 Socials:
