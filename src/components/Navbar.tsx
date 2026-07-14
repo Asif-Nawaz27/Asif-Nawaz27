@@ -27,8 +27,8 @@ export default function Navbar({ active, onNavigate }: Props) {
   return (
     <header className={`navbar ${scrolled ? 'navbar--scrolled' : ''}`}>
       <div className="navbar__inner">
-        <button className="navbar__brand" onClick={() => go('home')}>
-          Muhammad Asif Nawaz
+        <button className="navbar__brand" onClick={() => go('home')} aria-label="Muhammad Asif Nawaz - Home">
+          <img src={`${import.meta.env.BASE_URL}Profile_11.jpg`} alt="Muhammad Asif Nawaz" className="navbar__avatar" />
         </button>
 
         <nav className={`navbar__links ${open ? 'navbar__links--open' : ''}`}>

@@ -201,6 +201,23 @@ img {
   color: var(--text);
   padding: 0;
   font-family: inherit;
+  display: flex;
+  align-items: center;
+  line-height: 0;
+}
+
+.navbar__avatar {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 15%;
+  border: 2px solid var(--border);
+  transition: border-color 0.2s ease;
+}
+
+.navbar__avatar:hover {
+  border-color: var(--accent);
 }
 
 .navbar__links {
