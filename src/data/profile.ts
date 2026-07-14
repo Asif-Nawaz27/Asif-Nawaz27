@@ -39,7 +39,7 @@ export const personal = {
     'Strong problem-solving mindset and a keen eye for detail, thriving in collaborative environments where innovation and continuous improvement are valued.',
     'Proficient across a diverse range of technologies, platforms, and server environments, with a deep understanding of modern software architecture and industry best practices.',
   ],
-  topSkills: ['Web Engineering', 'CompAccelerator', 'DevOps'],
+  topSkills: ['DotNet Developer', 'Cloud Engineer', 'Web Engineering', 'Azure DevOps'],
 }
 
 export const experience: CompanyExperience[] = [
