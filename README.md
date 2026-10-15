@@ -1,6 +1,12 @@
 # 💫 About Me:
-Senior .NET Software Engineer with 5+ years of experience designing and delivering scalable, enterprise-grade web applications. Skilled in C#, ASP.NET Core, Angular, React, Azure, and SQL Server, with strong hands-on experience in microservices architecture, cloud deployment, and system integration. Improved application performance by 50% and engineered a calculation engine that powers a client-facing compensation platform used by organizations worldwide. Passionate about building robust, high-performance solutions that turn business requirements into measurable results.
+I'm a Senior Software Engineer with more than five years of experience developing enterprise SaaS applications and cloud-based services. I specialise in C#, .NET, SQL Server, Microsoft Azure and software architecture.
+At Dartican, I help build and modernise CompAccelerator, an enterprise compensation-management platform. My work has included moving legacy functionality to ASP.NET Core, designing shared services for salary and bonus calculations, creating data-import and reporting workflows, and improving secure integrations, performance and release delivery.
+Previously, I was the sole full-stack engineer responsible for FitnessPlayer's administration dashboard, backend API and music web application, including authentication, billing integrations and live-streaming capabilities for Swedish fitness businesses.
+Outside my core engineering work, I mentor learners through CodeYourFuture, conduct technical research and write about practical approaches to .NET, AI and scalable software systems.
 
+<!--
+Senior .NET Software Engineer with 5+ years of experience designing and delivering scalable, enterprise-grade web applications. Skilled in C#, ASP.NET Core, Angular, React, Azure, and SQL Server, with strong hands-on experience in microservices architecture, cloud deployment, and system integration. Improved application performance by 50% and engineered a calculation engine that powers a client-facing compensation platform used by organizations worldwide. Passionate about building robust, high-performance solutions that turn business requirements into measurable results.
+-->
 <!--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asifnawaz9610) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadasifnawaz27/) 
