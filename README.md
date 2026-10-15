@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior .NET Software Engineer with 6 years of experience designing and delivering scalable, enterprise-grade web applications. Skilled in C#, ASP.NET Core, Angular, React, Azure, and SQL Server, with strong hands-on experience in microservices architecture, cloud deployment, and system integration. Improved application performance by 50% and engineered a calculation engine that powers a client-facing compensation platform used by organizations worldwide. Passionate about building robust, high-performance solutions that turn business requirements into measurable results.
+Senior .NET Software Engineer with 5+ years of experience designing and delivering scalable, enterprise-grade web applications. Skilled in C#, ASP.NET Core, Angular, React, Azure, and SQL Server, with strong hands-on experience in microservices architecture, cloud deployment, and system integration. Improved application performance by 50% and engineered a calculation engine that powers a client-facing compensation platform used by organizations worldwide. Passionate about building robust, high-performance solutions that turn business requirements into measurable results.
 
 <!--
 ## 🌐 Socials:
